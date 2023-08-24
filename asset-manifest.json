@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/quintaesencia/static/css/main.468f1370.css",
+    "main.css": "/quintaesencia/static/css/main.2308982a.css",
     "main.js": "/quintaesencia/static/js/main.4c83cfe6.js",
     "static/media/back.webp": "/quintaesencia/static/media/back.fc61f13b2860a286b7ee.webp",
     "static/media/7-el-carro.webp": "/quintaesencia/static/media/7-el-carro.7dfd6e71e9ecb821072f.webp",
@@ -82,11 +82,11 @@
     "static/media/67-tres-de-espadas.webp": "/quintaesencia/static/media/67-tres-de-espadas.6f73ab1a58c300e87019.webp",
     "static/media/25-tres-de-bastos.webp": "/quintaesencia/static/media/25-tres-de-bastos.f1989a39f0c81147cb20.webp",
     "index.html": "/quintaesencia/index.html",
-    "main.468f1370.css.map": "/quintaesencia/static/css/main.468f1370.css.map",
+    "main.2308982a.css.map": "/quintaesencia/static/css/main.2308982a.css.map",
     "main.4c83cfe6.js.map": "/quintaesencia/static/js/main.4c83cfe6.js.map"
   },
   "entrypoints": [
-    "static/css/main.468f1370.css",
+    "static/css/main.2308982a.css",
     "static/js/main.4c83cfe6.js"
   ]
 }
